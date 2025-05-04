@@ -41,7 +41,7 @@ const AppSidebar = () => {
             <SidebarMenuButton asChild>
                 <Link href={"/"} className='flex'>
                     {/* <Image src={""} alt='' /> */}
-                   <h2 className='font-bold text-[20px]'>Chart's Dashboard</h2> 
+                   <h2 className='font-bold text-[20px]'>Chart Dashboard</h2> 
                 </Link>
             </SidebarMenuButton>
         </SidebarMenuItem>
