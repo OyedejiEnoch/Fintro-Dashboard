@@ -1,7 +1,7 @@
 "use client"
 import React from 'react'
 import { Label, Pie, PieChart } from "recharts"
-import { ChartConfig, ChartContainer, ChartLegend, ChartLegendContent, ChartTooltip, ChartTooltipContent } from './ui/chart'
+import { ChartConfig, ChartContainer,ChartTooltip, ChartTooltipContent } from './ui/chart'
 import { TrendingUp } from 'lucide-react'
 
 const chartData = [

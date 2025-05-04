@@ -1,7 +1,6 @@
 import React from 'react'
 import { Card, CardContent, CardFooter, CardTitle } from './ui/card'
 import Image from 'next/image'
-import { title } from 'process'
 import { Badge } from './ui/badge'
 
 const popularContent =[

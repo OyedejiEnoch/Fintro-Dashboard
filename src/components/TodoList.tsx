@@ -1,7 +1,6 @@
 "use client"
 import React from 'react'
 import { ScrollArea } from "@/components/ui/scroll-area"
-import { Separator } from "@/components/ui/separator"
 import { Card } from './ui/card'
 import { Checkbox } from './ui/checkbox'
 import { Calendar } from './ui/calendar'
